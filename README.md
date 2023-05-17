@@ -23,15 +23,10 @@
 ##### 만약 예산안보다 더 사용시 다음달 예산안에서 마이너스 , 반대는 다음달 예산안에서 플러스 
 ##### 카테고리마다 잔돈을 서로 보낼 수 있음 
 
-# 필요객체
-#### 예산(Budget) , 카테코리(Category), 트랜젝션(Transaction), 그룹(Group), 사용자(User)
+# ERD
 
-#### 카테코리(Category)
-##### category_idx
-##### name
-##### budget
-##### start_date
-##### end_date 
+![image](https://github.com/puddingForever/HappyBudget/assets/126591306/120359ff-5bc5-42e6-ac14-c464700adff8)
+
 
 #### 카테고리 데이터 
 ##### category_idx  name   budget  start_date  end_date 
@@ -39,20 +34,4 @@
 ##### 1   식료품   50000  7월 1일  7월 30일
 
 
-#### 트랜젝션(Transaction)
-##### tran_idx
-##### tran_date (언제 구매했는지)
-##### tran_total (얼마나 썻는지)
-##### tran_type (입금 or 지출)
-##### tran_info
-
-#### 그룹(Group)
-##### group_idx
-
-#### 사용자(User)
-##### user_idx
-##### user_id
-##### user_name
-##### user_password
-##### user_email
 
