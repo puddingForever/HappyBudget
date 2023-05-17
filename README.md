@@ -1,5 +1,5 @@
 # HappyBudget
-가계부 웹어플리케이션 Happy Budget 
+가계부 웹어플리케이션 Happy Budget (1人프로젝트)
 
 # 프로젝트 기간
 2023-05-16 ~ 
