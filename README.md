@@ -25,7 +25,7 @@
 
 # ERD
 
-![image](https://github.com/puddingForever/HappyBudget/assets/126591306/120359ff-5bc5-42e6-ac14-c464700adff8)
+![image](https://github.com/puddingForever/HappyBudget/assets/126591306/ce04a1aa-a735-49ff-85bc-6d22f0720739)
 
 
 #### 카테고리 데이터 
